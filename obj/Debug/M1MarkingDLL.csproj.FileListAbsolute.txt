@@ -1,0 +1,6 @@
+C:\temp\Jaga\M1MarkingApp\M1MarkingDLL\bin\Debug\M1MarkingDLL.dll
+C:\temp\Jaga\M1MarkingApp\M1MarkingDLL\bin\Debug\M1MarkingDLL.pdb
+C:\temp\Jaga\M1MarkingApp\M1MarkingDLL\obj\Debug\M1MarkingDLL.csproj.CoreCompileInputs.cache
+C:\temp\Jaga\M1MarkingApp\M1MarkingDLL\obj\Debug\M1MarkingDLL.dll
+C:\temp\Jaga\M1MarkingApp\M1MarkingDLL\obj\Debug\M1MarkingDLL.pdb
+C:\temp\Jaga\M1MarkingApp\M1MarkingDLL\obj\Debug\M1MarkingDLL.csproj.AssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\h238397\source\repos\OCSMarkingDLL\bin\Debug\OCSMarkingDLL.dll
+C:\Users\h238397\source\repos\OCSMarkingDLL\bin\Debug\OCSMarkingDLL.pdb
+C:\Users\h238397\source\repos\OCSMarkingDLL\obj\Debug\OCSMarkingDLL.csproj.CoreCompileInputs.cache
+C:\Users\h238397\source\repos\OCSMarkingDLL\obj\Debug\OCSMarkingDLL.dll
+C:\Users\h238397\source\repos\OCSMarkingDLL\obj\Debug\OCSMarkingDLL.pdb
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarkingDLL\obj\Debug\OCSMarkingDLL.csproj.CoreCompileInputs.cache
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarkingDLL\obj\Debug\OCSMarkingDLL.dll
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarkingDLL\obj\Debug\OCSMarkingDLL.pdb
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarkingDLL\bin\Debug\OCSMarkingDLL.dll
+C:\Users\h238397\OneDrive - Halliburton\0-MINE\Marking3App\Projects\OCSMarkingDLL\bin\Debug\OCSMarkingDLL.pdb
+C:\temp\Jaga\OCSMarking3App\OCSMarkingDLL\bin\Debug\OCSMarkingDLL.dll
+C:\temp\Jaga\OCSMarking3App\OCSMarkingDLL\bin\Debug\OCSMarkingDLL.pdb
+C:\temp\Jaga\OCSMarking3App\OCSMarkingDLL\obj\Debug\OCSMarkingDLL.csproj.CoreCompileInputs.cache
+C:\temp\Jaga\OCSMarking3App\OCSMarkingDLL\obj\Debug\OCSMarkingDLL.dll
+C:\temp\Jaga\OCSMarking3App\OCSMarkingDLL\obj\Debug\OCSMarkingDLL.pdb
